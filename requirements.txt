@@ -1,0 +1,3 @@
+# LuciferScan uses Python 3 standard library exclusively.
+# No third-party packages required.
+# Minimum supported version: Python 3.8+
